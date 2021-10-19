@@ -14,7 +14,6 @@ public class Motor {
 		if (tipo.equals("electrico") || tipo.equals("gasolina"))
 			this.tipo = tipo;
 		
-		
 	}
 
 }
